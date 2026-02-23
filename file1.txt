@@ -3,3 +3,10 @@ commit test
 456
 789.
 Add line
+new branch line >> file1.txt
+cat file1.txt
+
+q
+qq
+git branch
+$ echo new branch line
